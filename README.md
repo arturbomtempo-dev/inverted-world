@@ -13,4 +13,4 @@ The main function of this project is to present a little about the fourth season
 * [Firebase](https://firebase.google.com/docs?hl=pt-br): store the data written in the form
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/InvertedWorld/).
+You can view the hosted page by clicking [here](https://inverted-world-artur-bomtempo.vercel.app/).
